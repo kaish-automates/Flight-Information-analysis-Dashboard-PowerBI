@@ -12,3 +12,9 @@ Booking Trends: Created a distribution breakdown of ticket booking statuses (Con
 Advanced Drill-downs: Implemented a decomposition tree to map out the exact distribution of flights based on specific destinations and airlines.
 
 User Interactivity: Added custom airline slicers and interactive filtering to allow stakeholders to drill down into specific carrier details instantly.
+
+## 💾 Dataset
+The data used in this project is consolidated into a single Excel workbook (`Flight_Analysis_Dataset.xlsx`) containing three sheets:
+1. `Passenger_Information` - Contains demographic and passenger ID details.
+2. `Flight_Information` - Details flight IDs, airlines, and destinations.
+3. `Ticket_Information` - Contains Ticket Information (Confirmed, Cancelled, Pending).
